@@ -30,3 +30,6 @@ library SafeMath {
     return c;
   }
 }
+
+
+// Copyright (c) 2016 Smart Contract Solutions, Inc.
